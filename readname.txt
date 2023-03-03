@@ -1,5 +1,3 @@
-Notepad++ v8.4.9 bug-fixes and new features:
 hola
-soy jesus alberto
-soy estudiante de ingenieria industrial y en sistemas del tecmilenio 
-
+soy Jesus Alberto
+soy estudiante de ingenieria industrial y en sistemas del tecmilenio online
